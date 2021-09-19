@@ -11,8 +11,11 @@ Chris
 ### Private Repositories
 #### CS253
 [Lab 1](https://github.com/HindmanCourses/cs253-f21-lab01-snoozebsu)
+
 [Lab 2](https://github.com/HindmanCourses/cs253-f21-lab02-snoozebsu)
+
 [Lab 3](https://github.com/HindmanCourses/cs253-f21-lab03-snoozebsu)
+
 [Lab 4](https://github.com/HindmanCourses/cs253-f21-lab04-snoozebsu)
 
 
